@@ -1,3 +1,4 @@
+
 # Crashly
 An application that is going to crash, a lot, because that's what it's meant to do.
 
