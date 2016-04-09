@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Crashly</string>
+
+    <string name="navigate_without_crash_name">Navigate Without Crash</string>
+
+    <string name="exception_name">Exceptions</string>
+
+    <string name="out_of_memory_name">Out of Memory</string>
+
+    <string name="thread_blocking_name">Thread Blocking</string>
+
+    <string name="memory_leak">Memory Leak</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
